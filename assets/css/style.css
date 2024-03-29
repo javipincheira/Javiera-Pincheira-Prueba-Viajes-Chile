@@ -1,4 +1,39 @@
+
+/* NAVBAR */
 .navbar-solid {
     background-color: #0dcaf0;
   }
-  
+
+.navbar{
+  font-family: "Oswald", sans-serif;
+  font-size:20px ;
+  font-weight: 400;
+  font-style: normal;
+}
+#fnav{
+    font-family: "Oswald", sans-serif;
+  font-size:30px ;
+  font-weight: 400;
+  font-style: normal;
+}
+/* FIN NAVBAR */
+
+#qsomos{
+    font-family: "Oswald", sans-serif;
+  font-size:40px ;
+  font-weight: 400;
+  font-style: normal; 
+}
+
+#destaca2{
+    font-family: "Oswald", sans-serif;
+    font-size:40px ;
+    font-weight: 400;
+    font-style: normal;  
+}
+#contact{
+    font-family: "Oswald", sans-serif;
+    font-size:40px ;
+    font-weight: 400;
+    font-style: normal;  
+}
